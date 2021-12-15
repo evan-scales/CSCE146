@@ -1,0 +1,15 @@
+Rectangle	5	4
+Circle	4	
+Right Triangle	3	2
+Rectangle	2	7
+Circle	8	
+Right Triangle	5	6
+Rectangle	9	2
+Circle	2	
+Rectangle	5	5
+Right Triangle	9	9
+Circle	7	
+Rombus		
+Rectangle	3	8
+Circle	9	
+Right Triangle	2	2

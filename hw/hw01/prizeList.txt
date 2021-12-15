@@ -1,0 +1,51 @@
+Car	20000
+Boat	50000
+Moose	1000
+Goat	200
+Shredded wheat 2
+Cheese	5
+Milk	5
+Bread	7
+Big TV	1000
+Life time supply of Cheetos	2000
+Lamp	20
+Blender	30
+Food Processor	40
+Camera	400
+Watch	750
+Beard Supplies	800
+Trip to Latvia	4000
+Ski Equipment	1200
+Pair of Scooters	2000
+A basket of turtles	20
+Fiber Supplement	6
+Handful of hard candy	2
+Large Ball of Foil	5
+Heap of Makeup	100
+A Pet Crow	50
+A Trunk Full of Shoes	500
+Trip to New Zealand	5000
+Robosaurus	100000
+Espresso Making Ferrets	1200
+Antacid	5
+A box of slightly used magazines	1
+Pinball Machine	1500
+Jar of Tomato Paste	5
+Aspirin	8
+Unreasonable amount of luncheon meat	200
+Dinette Set	1400
+Bedroom Set	1600
+Washer and Dryer	1500
+Microwave	30
+Latest Video Game Console	500
+Globe that lights up!	400
+A sparkly necklace	800
+Tennis Equipment	500
+Cereal	4
+The Antidote	250000
+Ping Pong Table	400
+A Very Very Pretty Ring	1200
+Guitar	1500
+Banjo	120
+Exotic Plants	500
+A Large Cowboy Hat	100
